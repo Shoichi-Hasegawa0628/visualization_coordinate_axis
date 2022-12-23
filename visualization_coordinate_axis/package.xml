@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>visualization_coordinate_axis</name>
+  <version>1.0.0</version>
+  <description>The visualization_coordinate_axis package</description>
+  <maintainer email="hasegawa.shoichi@em.ci.ritsumei.ac.jp">root</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

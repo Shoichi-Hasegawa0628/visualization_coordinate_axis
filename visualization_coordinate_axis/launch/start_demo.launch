@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="visualization_coordinate_axis" type="fixed_tf2_broadcaster.py" name="broadcaster_fixed" output="screen"/>
+    <!-- <node pkg="visualization_coordinate_axis" type="dynamic_tf2_broadcaster.py" name="broadcaster_dynamic" output="screen"/> -->
+</launch>
